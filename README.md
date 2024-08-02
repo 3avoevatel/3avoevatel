@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3avoevatel
-- Coding on python
+- Coding on python, С#
 
 <!---
 3avoevatel/3avoevatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
