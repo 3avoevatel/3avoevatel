@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm Alexandr 👋</h1>
-    <h3>Full Stack Developer from Blgorod</h3>
+    <h1>Hi there, I'm Alexandr :D</h1>
+    <h3>Back End Developer from Belgorod</h3>
 </div>
 
 <div id="badges" align="center">
@@ -36,14 +36,6 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
     <img src="https://img.shields.io/badge/aiogram-2E8B57?style=for-the-badge&logo=python&logoColor=white" alt="aiogram Badge"/>
     <img src="https://img.shields.io/badge/Telebot-FF4500?style=for-the-badge&logo=telegram&logoColor=white" alt="Telebot Badge"/>
-</div>
-
----
-
-### 📊 My GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
