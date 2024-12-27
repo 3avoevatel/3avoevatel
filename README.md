@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there, I'm Alexandr :D</h1>
-    <h3>Back End Developer from Belgorod</h3>
+    <h3>BackEnd Developer from Belgorod</h3>
 </div>
 
 <div align="center">
@@ -29,5 +29,4 @@
 ---
 
 ### 📫 How to Reach Me
-- **Telegram:** [@yourusername](https://t.me/yourusername)  
-- **Email:** [your_email@example.com](mailto:your_email@example.com)
+- **Telegram:** [@strv121](https://t.me/strv121)  
