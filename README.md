@@ -10,7 +10,7 @@
     <a href="https://twitter.com/yourprofile">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://github.com/yourusername">
+    <a href="https://github.com/3avoevatel">
         <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
 </div>
