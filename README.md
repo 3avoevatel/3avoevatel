@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 - 🧑‍💻 I have **4 years of programming experience**.  
-- 🛠️ Skilled in **C++** and **Python**.  
+- 🐍 Using **C++** and **Python**.  
 - 🎯 My main focus is:  
   - **Developing Telegram Bots** (aiogram, telebot).  
   - **Cybersecurity** and analyzing malwares.  
