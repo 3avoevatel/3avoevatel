@@ -3,10 +3,6 @@
     <h3>BackEnd Developer from Belgorod</h3>
 </div>
 
-<div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif"/>
-</div>
-
 ---
 
 ### 👨‍💻 About Me
