@@ -3,18 +3,6 @@
     <h3>Back End Developer from Belgorod</h3>
 </div>
 
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/yourprofile">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/yourprofile">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://github.com/3avoevatel">
-        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-</div>
-
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif"/>
 </div>
