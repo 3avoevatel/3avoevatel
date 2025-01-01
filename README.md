@@ -21,8 +21,3 @@
     <img src="https://img.shields.io/badge/aiogram-2E8B57?style=for-the-badge&logo=python&logoColor=white" alt="aiogram Badge"/>
     <img src="https://img.shields.io/badge/Telebot-FF4500?style=for-the-badge&logo=telegram&logoColor=white" alt="Telebot Badge"/>
 </div>
-
----
-
-### 📫 How to Reach Me
-- **Telegram:** [@strv121](https://t.me/strv121)  
